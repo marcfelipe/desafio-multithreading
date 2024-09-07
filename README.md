@@ -1,9 +1,10 @@
 # Desafio Multithreading do MBA Go Expert fullcycle
 
 
- Neste desafio você terá que usar o que aprendemos com Multithreading e APIs para buscar o resultado mais rápido entre duas APIs distintas.
+Neste desafio você terá que usar o que aprendemos com Multithreading e APIs para buscar o resultado mais rápido entre duas APIs distintas.
 As duas requisições serão feitas simultaneamente para as seguintes APIs:
 https://brasilapi.com.br/api/cep/v1/01153000 + cep
+
 http://viacep.com.br/ws/" + cep + "/json/
 
 Os requisitos para este desafio são:
